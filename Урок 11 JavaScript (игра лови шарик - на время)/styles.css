@@ -103,6 +103,6 @@ h1 {
 }
 
 .circle:hover {
-  transition-duration: 0s;
+  transition-duration: 2s;
   background: linear-gradient(90deg, #e37216 0%, #6830ec3d 47%, #f7466c, #c0c0c0 100%);
 }
